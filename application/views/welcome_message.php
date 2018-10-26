@@ -112,6 +112,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		min-height: 500px;
 		background-image: url('<?php echo base_url('assets/images/banner_topo.jpg');?>');
 		background-size: cover;
+		background-position: center right;
 		background-repeat: no-repeat;">
       <div class="container text-center">
         <h1>&nbsp;</h1>
