@@ -193,8 +193,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<p style="font-size: 0.9em;">
 				<b>Endereço</b><br/>
 				Avenida Palmital, 148 - Flamboyant - Campinas - SP CEP: 13091-133<br/>
-				<b>WhatsApp</b>: (19) 99553-0476
-				<b>E-mail</b>: contato@chaveiroabelhinha.com.br
+				<b>WhatsApp</b>: <a href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a><br/>
+				<b>E-mail</b>: <a href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a>
 				</p>
 			</div>
 			
