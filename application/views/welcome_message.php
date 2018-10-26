@@ -272,7 +272,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="<?php echo base_url('assets/vendor/jquery-easing/jquery.easing.min.js');?>"></script>
 
     <!-- Custom JavaScript for this theme -->
-    <script src="<?php echo base_url('assets/js/scrolling-nav.js');?>"></script>
+		<script src="<?php echo base_url('assets/js/scrolling-nav.js');?>"></script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120700632-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-120700632-1');
+		</script> 
 
   </body>
 
