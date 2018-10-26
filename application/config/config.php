@@ -23,7 +23,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = '';
+if (isset($_SERVER['CI_ENV']) && $_SERVER['CI_ENV'] === 'development') {
+    $config['base_url'] = 'http://localhost/chaveiroabelhinha/web/';
+} else {
+    $config['base_url'] = 'https://chaveiroabelhinha.com.br/';
+}
 
 /*
 |--------------------------------------------------------------------------
