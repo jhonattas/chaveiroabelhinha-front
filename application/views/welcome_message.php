@@ -242,6 +242,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 											Consertamos chave Automotiva, cilindros de portas, Ignição e Comutador de partida.<br/>
 											•	Fazemos também adaptação para chave canivete, pósitron, olimpos, taramps.
 										</p>
+										<br/>
                   </div>
                 </div>
               </div>
@@ -261,6 +262,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										Restauração de Fechaduras Antigas<br/>
 										•	Instalação de todos os modelos de Fechaduras, Travas Auxiliares, Acessórios de Segurança, Molas Áreas, Cadeados de porta de Aço e de Vidro.
 										</p>
+										<br/>
+										<br/>
                   </div>
                 </div>
               </div>
@@ -280,6 +283,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										<br/>
 										<br/>
 										</p>
+										<br/>
+										<br/>
                   </div>
                 </div>
               </div>
