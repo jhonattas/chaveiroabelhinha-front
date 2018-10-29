@@ -161,9 +161,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">Outros Serviços</a>
-            </li>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Outros Serviços
+							</a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+								<a class="dropdown-item" href="<?php echo base_url();?>residencial">Residencial</a>
+								<a class="dropdown-item" href="<?php echo base_url();?>cofres">Cofres</a>
+							</div>
+						</li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#descricao">Linha Automotiva</a>
             </li>
