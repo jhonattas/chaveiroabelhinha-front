@@ -83,9 +83,61 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			-webkit-transition: all .2s ease-in;
 			transition: all .2s ease-in;
 		}
+
+		.whatsapp-plug-icon{
+			position: fixed; 
+			z-index: 1000; 
+			bottom: 20px;
+			right: 20px; 
+			width: 50px; height: 50px; 
+			-webkit-border-radius: 50%; cursor: pointer; 
+			background-color: #0ba360; 
+			transition: .3s; 
+			background-position: center; 
+			background-repeat: no-repeat; 
+			background-image: url('./assets/images/whatsapp.svg'); background-size: 50% auto;
+		}
+		.whatsapp-plug-icon:hover{background-color: #15cc74;}
+		.whatsapp-plug-icon::after,
+		.whatsapp-plug-icon::before{
+			content: ''; 
+			position: absolute; 
+			opacity: 0; 
+			border: 4px solid #0ba360; 
+			left: -10px; 
+			top: -10px; 
+			right: -10px; 
+			bottom: -10px; 
+			-webkit-border-radius: 50%;
+			 animation: WaveWhatsApp 1.5s ease infinite;
+		}
+		.whatsapp-plug-icon::after{
+			animation-delay: .5s;
+		}
+		.whatsapp-plug-icon:hover::after{
+			border: 4px solid #15cc74;
+		}
+		.whatsapp-plug-icon:hover::before{
+			border: 4px solid #15cc74;
+		}
+		@keyframes WaveWhatsApp {
+			0% { 
+				transform: scale(0.5);
+			} 
+
+			50% { 
+				opacity: 1; 
+			} 
+
+			100% { 
+				transform: scale(1.2); 
+				opacity: 0; 
+			}
+		}
 	</style>
 </head>
 <body id="page-top">
+	<a target="_blank" class="whatsapp-plug-icon" href="https://api.whatsapp.com/send?phone=5519995530476"></a>
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
 	var js, fjs = d.getElementsByTagName(s)[0];
