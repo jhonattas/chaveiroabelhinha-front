@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="pt_BR">
 <head>
 	<meta charset="utf-8">
-	<title>Residencial - Chaveiro Abelhinha</title>
+	<title>Cofres - Chaveiro Abelhinha</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="<?php echo base_url('assets/vendor/bootstrap/css/bootstrap.min.css'); ?>" />
   <link rel="stylesheet" href="<?php echo base_url('assets/css/scrolling-nav.css'); ?>" />
@@ -167,11 +167,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 								<a class="dropdown-item" href="<?php echo base_url();?>automotiva">Linha Automotiva</a>
-								<a class="dropdown-item" href="<?php echo base_url();?>cofres">Cofres</a>
+								<a class="dropdown-item" href="<?php echo base_url();?>residencial">Linha Residencial</a>
 							</div>
 						</li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#descricao">Linha Residencial</a>
+              <a class="nav-link js-scroll-trigger" href="#descricao">Cofres</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
@@ -199,29 +199,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <div class="container">
         <div class="row">
           <div class="col-sm-12" style="margin-top: 30px;">
-            <h1 style="text-align:center;">LINHA RESIDENCIAL</h1>
-            <br/><br/>
-					  <p style="text-align: justify; font-size: 1.2em;">
-              Para fazer a melhor escolha, é preciso, antes de qualquer outra coisa, conhecer os tipos de porta disponíveis no mercado. Veja a seguir os principais modelos e evite confusões na hora da compra:
-            </p>
-            <br/>
-            <p style="text-align: justify; font-size: 1.2em;">
-              <b>De abrir</b>: a porta de abrir é a mais tradicional, aquela que funciona por meio de dobradiças e oferece boa vedação, possibilitando isolamento térmico e acústico.
-            </p>
-            <br/>
-            <p style="text-align: justify; font-size: 1.2em;">
-            <b>Pivotante</b>: o modelo pivotante funciona de um jeito parecido com a porta tradicional, mas suas ferragens são diferentes. Em vez de dobradiças convencionais, o que temos aqui são pivôs. A estética é interessante, pois a porta gira em torno do próprio eixo, já no quesito vedação deixa a desejar.
-            </p>
-            <br/>
-            <p style="text-align: justify; font-size: 1.2em;">
-            <b>De correr</b>: as portas de correr são excelentes para otimizar o espaço ou dividir dois ambientes, mas os desempenhos térmico e acústico não são tão bons quanto os da porta de abrir tradicionalmente.
-            </p>
-            <br/>
-            <br/>
-            <br/>
-            <h5 style="text-align: center;">Realizamos todos os tipos de Chave e Serviços de Chaveiro</h5>
-            <h2 style="text-align:center;">Plantão 24 horas</h2>
-				</div>
+            <h1 style="text-align:center;">COFRES</h1>
+            <h3 style="text-align: center;">Trabalhamos com aberturas de cofres em geral, solicite-nos um orçamento!</h3>
+          </div>
+          
+          <div class="col-sm-6" style="margin-top: 30px;">
+						<img 
+							src="<?php echo base_url('assets/images/cofres_001.png');?>"
+							style="width: 100%; border-radius: 5px;"
+						>
+					</div>
+					
+					<div class="col-sm-6" style="margin-top: 30px;">
+						<img 
+							src="<?php echo base_url('assets/images/cofres_002.png');?>"
+							style="width: 100%; border-radius: 5px;"
+						>
+          </div>
       </div>
     </section>
 
