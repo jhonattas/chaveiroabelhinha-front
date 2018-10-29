@@ -195,7 +195,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<div class="col-lg-6 mx-auto">
 						<img 
 							src="<?php echo base_url('assets/images/quem_somos.jpg');?>"
-							style="width: 100%;">
+							style="width: 100%; border-radius: 5px;">
 					</div>
 					<div class="col-lg-6 mx-auto">
 						<h2 style="text-align: center;">A Empresa Chaveiro Abelhinha, nasceu em 2015</h2><br/>
@@ -239,7 +239,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 											<br/>
 											Canivete, telecomando, chave reserva simples.<br/>
 											<br/>
-											Consertos e chaves, cilindros de portas, Ignição e Comutador de partida.<br/>
+											Consertamos chave Automotiva, cilindros de portas, Ignição e Comutador de partida.<br/>
 											•	Fazemos também adaptação para chave canivete, pósitron, olimpos, taramps.
 										</p>
                   </div>
