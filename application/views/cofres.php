@@ -153,9 +153,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		id="mainNav"
 		style="background-color: #ffeb3b;">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">
-			<img src="<?php echo base_url('assets/images/logo_topo.png');?>">
-		</a>
+        <a class="navbar-brand" href="<?php echo base_url();?>">
+					<img src="<?php echo base_url('assets/images/logo_topo.png');?>">
+				</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>

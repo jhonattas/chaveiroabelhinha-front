@@ -243,6 +243,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 											•	Fazemos também adaptação para chave canivete, pósitron, olimpos, taramps.
 										</p>
 										<br/>
+										<center>
+										<a 
+											style=""
+											class="btn btn-warning" href="<?php echo base_url();?>automotiva">saber mais</a>
+										</center>
                   </div>
                 </div>
               </div>
@@ -264,6 +269,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										</p>
 										<br/>
 										<br/>
+										<center>
+										<a 
+											style=""
+											class="btn btn-warning" href="<?php echo base_url();?>residencial">saber mais</a>
+										</center>
                   </div>
                 </div>
               </div>
@@ -285,6 +295,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										</p>
 										<br/>
 										<br/>
+										<center>
+										<a 
+											style=""
+											class="btn btn-warning" href="<?php echo base_url();?>cofres">saber mais</a>
+										</center>
                   </div>
                 </div>
               </div>
