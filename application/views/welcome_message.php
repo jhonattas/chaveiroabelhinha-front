@@ -65,6 +65,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			-webkit-transition: all .2s ease-in;
 			transition: all .2s ease-in;
 		}
+
+		footer a {
+			color: #e63b34;
+			text-decoration: none;
+			-moz-transition: all .2s ease-in;
+			-o-transition: all .2s ease-in;
+			-webkit-transition: all .2s ease-in;
+			transition: all .2s ease-in;
+		}
+
+		footer a:hover {
+			text-decoration: none;
+			-moz-transition: all .2s ease-in;
+			-o-transition: all .2s ease-in;
+			-webkit-transition: all .2s ease-in;
+			transition: all .2s ease-in;
+		}
 	</style>
 </head>
 <body id="page-top">
@@ -150,7 +167,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-lg-12 mx-auto">
             <h2>Serviços que Oferecemos</h2><br/>
             <div class="row">
-              <div class="col">
+              <div class="col" style="margin-top: 1em;">
                 <div class="card" style="">
                   <img class="card-img-top" src="<?php echo base_url('assets/images/linha_automotiva.jpg');?>" alt="Card image">
                   <div class="card-body">
@@ -160,12 +177,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </div>
               </div>
 
-              <div class="col">
+              <div class="col" style="margin-top: 1em;">
                 <div class="card" style="">
                   <img class="card-img-top" src="<?php echo base_url('assets/images/linha_residencial.jpg');?>" alt="Card image">
                   <div class="card-body">
                     <h4 class="card-title">Linha Residencial</h4>
-                    <p class="card-text">Conheça as chaves codificadas automotivas que imobilizam a partida.</p>
+                    <p class="card-text">Realizamos todos os tipos de chave e serviços de chaveiro residencial.</p>
                   </div>
                 </div>
               </div>
@@ -174,8 +191,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="card" style="">
                   <img class="card-img-top" src="<?php echo base_url('assets/images/cofres.jpg');?>" alt="Card image">
                   <div class="card-body">
-                    <h4 class="card-title">Linha Automotiva</h4>
-                    <p class="card-text">Conheça as chaves codificadas automotivas que imobilizam a partida.</p>
+                    <h4 class="card-title">Cofres</h4>
+                    <p class="card-text">Trabalhamos com aberturas de cofres em geral, solicite-nos um orçamento!</p>
                   </div>
                 </div>
               </div>
@@ -184,8 +201,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="card" style="">
                   <img class="card-img-top" src="<?php echo base_url('assets/images/fechaduras.jpg');?>" alt="Card image">
                   <div class="card-body">
-                    <h4 class="card-title">Linha Automotiva</h4>
-                    <p class="card-text">Conheça as chaves codificadas automotivas que imobilizam a partida.</p>
+                    <h4 class="card-title">Fechaduras</h4>
+                    <p class="card-text">Trabalhamos com os mais diversos modelos das fechaduras Lockwell.</p>
                   </div>
                 </div>
               </div>
@@ -221,7 +238,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<b>CONTATO</b><br/><br/>
 				<p style="font-size: 0.9em;">
 				<b>Endereço</b><br/>
-				Avenida Palmital, 148 - Flamboyant - Campinas - SP CEP: 13091-133<br/>
+				Avenida Palmital, 148 - Flamboyant - Campinas - SP CEP: 13091-133<br/><br/>
 				<b>WhatsApp</b>: <a href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a><br/>
 				<b>E-mail</b>: <a href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a>
 				</p>
