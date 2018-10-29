@@ -140,25 +140,33 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <section id="about">
       <div class="container">
         <div class="row">
-			<div class="col-lg-6 mx-auto">
-				<img 
-					src="<?php echo base_url('assets/images/quem_somos.jpg');?>"
-					style="width: 100%;">
-			</div>
-			<div class="col-lg-6 mx-auto">
-				<h2>Quem Somos</h2>
-				<p class="lead">O Chaveiro Abelhinha possui uma equipe qualificada e especializada com mais de 3 anos de experiência no mercado. Especialistas de prontidão para o serviço de chaveiro, abertura de fechaduras de residências e abertura de automóveis. Trabalhamos também com o serviço chaveiro para instalação de travas de segurança, fechaduras de todos os modelos, molas aéreas, olho mágico, cadeados de portas de aço. Chaveiro Abelhinha Plantão 24h está na cidade de Campinas, no Jd. Flamboyant. (Prox. Ao Shopping Iguatemi):</p>
-				<ul>
-				<li>Aberturas em GERAL</li>
-				<li>Instalação de Fechaduras, Travas auxiliares e Acessórios</li>
-				<li>Confecção de Chave Residencial e Automotiva</li>
-				<li>Programação de Transponder e Telecomando</li>
-				<li>Fechadura Simples, Eletrônica, Digital</li>
-				<li>Travas auxiliares, Acessórios de segurança</li>
-				<li>Plantão 24 horas</li>
-				</ul>
-			</div>
-        </div>
+					<div class="col-lg-6 mx-auto">
+						<img 
+							src="<?php echo base_url('assets/images/quem_somos.jpg');?>"
+							style="width: 100%;">
+					</div>
+					<div class="col-lg-6 mx-auto">
+						<h2 style="text-align: center;">A Empresa Chaveiro Abelhinha, nasceu em 2015</h2><br/>
+						<p class="lead" style="text-align: justify;">Diferente de outros chaveiros, pois não herdei a profissão, mas sempre tive a curiosidade de saber qual era o funcionamento de uma fechadura. Pois já sabia a importância dela e todos os nossos bens que ela guarda. Isso se tornou um hobbie em minha vida!</p>
+						<br/>
+						<p class="" style="text-align: justify;">
+							Visando atuar no mercado de uma maneira diferenciada, nos preocupando em primeiro lugar com a segurança e bem-estar de nossos clientes. O Nome Abelhinha surgiu pela admiração do trabalho delas na natureza e decidimos adotar o seu método de trabalho. Levando o nosso melhor a cada lugar que passamos e extraindo uma amizade profissional e duradoura.
+						</p>
+						<br/>
+						<br/>
+					</div>
+				</div>
+				<div class="" style="margin-top: 30px;">
+					<p style="text-align: center; font-weight: 600;">
+						O Chaveiro Abelhinha possui uma equipe qualificada e especializada com mais de 3 anos de experiência no mercado.
+					</p>
+					<p style="text-align: center; font-weight: 600;">
+						Especialista de prontidão para lhe atender 24 horas por dia.
+					</p>
+					<p style="text-align: center; font-weight: 600;">
+						Atuamos nas áreas: Residencial, Automotiva e Cofres
+					</p>
+				</div>
       </div>
     </section>
 
@@ -166,14 +174,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <div class="container">
         <div class="row">
           <div class="col-lg-12 mx-auto">
-            <h2>Serviços que Oferecemos</h2><br/>
+            <h2>Alguns dos serviços que realizamos</h2><br/>
             <div class="row">
               <div class="col" style="margin-top: 1em;">
                 <div class="card" style="">
                   <img class="card-img-top" src="<?php echo base_url('assets/images/linha_automotiva.jpg');?>" alt="Card image">
                   <div class="card-body">
-                    <h4 class="card-title">Linha Automotiva</h4>
-                    <p class="card-text">Conheça as chaves codificadas automotivas que imobilizam a partida.</p>
+                    <h4 class="card-title">Automotivo</h4>
+                    <p class="card-text" style="text-align: justify;">
+											Aberturas de veículos nacionais e importados<br/>
+											Chave Codificada:<br/>
+											<br/>
+											Canivete, telecomando, chave reserva simples.<br/>
+											<br/>
+											Consertos e chaves, cilindros de portas, Ignição e Comutador de partida.<br/>
+											•	Fazemos também adaptação para chave canivete, pósitron, olimpos, taramps.
+										</p>
                   </div>
                 </div>
               </div>
@@ -182,8 +198,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="card" style="">
                   <img class="card-img-top" src="<?php echo base_url('assets/images/linha_residencial.jpg');?>" alt="Card image">
                   <div class="card-body">
-                    <h4 class="card-title">Linha Residencial</h4>
-                    <p class="card-text">Realizamos todos os tipos de chave e serviços de chaveiro residencial.</p>
+                    <h4 class="card-title">Residencial</h4>
+                    <p class="card-text" style="text-align: justify;">
+										Aberturas em Geral<br/>
+										<br/>
+										Confecção de Chaves<br/>
+										<br/>
+										Trocas de segredos<br/>
+										<br/>
+										Restauração de Fechaduras Antigas<br/>
+										•	Instalação de todos os modelos de Fechaduras, Travas Auxiliares, Acessórios de Segurança, Molas Áreas, Cadeados de porta de Aço e de Vidro.
+										</p>
                   </div>
                 </div>
               </div>
@@ -193,17 +218,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   <img class="card-img-top" src="<?php echo base_url('assets/images/cofres.jpg');?>" alt="Card image">
                   <div class="card-body">
                     <h4 class="card-title">Cofres</h4>
-                    <p class="card-text">Trabalhamos com aberturas de cofres em geral, solicite-nos um orçamento!</p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col" style="margin-top: 1em;">
-                <div class="card" style="">
-                  <img class="card-img-top" src="<?php echo base_url('assets/images/fechaduras.jpg');?>" alt="Card image">
-                  <div class="card-body">
-                    <h4 class="card-title">Fechaduras</h4>
-                    <p class="card-text">Trabalhamos com os mais diversos modelos das fechaduras Lockwell.</p>
+                    <p class="card-text">
+										Realizamos abertura de Cofres mecânicos e eletrônicos<br/>
+										<br/>
+										Confeccionamos novas chaves<br/>
+										<br/>
+										Trocamos a combinação de segredo<br/>
+										•	Dica: Para você que utiliza o modelo eletrônico, confira sempre a vida útil das pilhas e mantendo as chaves fora do mesmo.
+										<br/>
+										<br/>
+										</p>
                   </div>
                 </div>
               </div>
