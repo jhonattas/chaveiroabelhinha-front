@@ -67,7 +67,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		}
 
 		footer a {
-			color: #e63b34;
+			color: #333333;
 			text-decoration: none;
 			-moz-transition: all .2s ease-in;
 			-o-transition: all .2s ease-in;
@@ -76,6 +76,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		}
 
 		footer a:hover {
+			color: #000;
 			text-decoration: none;
 			-moz-transition: all .2s ease-in;
 			-o-transition: all .2s ease-in;
@@ -223,7 +224,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 href="https://api.whatsapp.com/send?phone=5519995530476" 
                 target="_new"
                 class="btn" 
-                style="background-color: #26d367; color: #ffffff;"><b><i class="fab fa-whatsapp"></i></b> (19) 995-530-476</a><br/>
+                style="background-color: #26d367; color: #ffffff;"><b><i class="fab fa-whatsapp"></i></b> (19) 99553-0476</a><br/>
             </p>
           </div>
         </div>
@@ -237,10 +238,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="col-md-4">
 				<b>CONTATO</b><br/><br/>
 				<p style="font-size: 0.9em;">
-				<b>Endereço</b><br/>
-				Avenida Palmital, 148 - Flamboyant - Campinas - SP CEP: 13091-133<br/><br/>
-				<b>WhatsApp</b>: <a href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a><br/>
-				<b>E-mail</b>: <a href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a>
+				Endereço<br/>
+				<b>Avenida Palmital, 148 - Flamboyant 
+				<br/>Campinas - SP
+				<br/>CEP: 13091-133</b><br/><br/>
+				WhatsApp: <b><a href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a></b><br/>
+				E-mail: <b><a href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a></b>
 				</p>
 			</div>
 			
