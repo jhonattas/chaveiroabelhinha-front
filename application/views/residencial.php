@@ -166,7 +166,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								Outros Serviços
 							</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" href="<?php echo base_url();?>residencial">Residencial</a>
+								<a class="dropdown-item" href="<?php echo base_url();?>automotiva">Automotiva</a>
 								<a class="dropdown-item" href="<?php echo base_url();?>cofres">Cofres</a>
 							</div>
 						</li>
