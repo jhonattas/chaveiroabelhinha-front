@@ -220,7 +220,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <br/>
             <h5 style="text-align: center;">
               <img 
-                style="margin: 0 auto; border-radius: 5px;"
+                style="margin: 0 auto; border-radius: 5px; width: 100%;"
                 src="<?php echo base_url('/assets/images/auto_001.png');?>">
             </h5>
             <br/>
@@ -247,7 +247,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						A palavra transponder é o resultado da junção de “transmitter + responder”, ela foi utilizada pela primeira vez por volta de 1944.<br/>
 						<h5 style="text-align: center;">
               <img 
-                style="margin: 0 auto; border-radius: 5px;"
+                style="margin: 0 auto; border-radius: 5px; width: 100%;"
                 src="<?php echo base_url('/assets/images/auto_002.png');?>">
             </h5>
             <h5 style="text-align: center; margin-top: 50px;">Realizamos todos os tipos de Chave e Serviços de Chaveiro</h5>
