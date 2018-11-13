@@ -148,10 +148,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	}(document, 'script', 'facebook-jssdk'));</script>
 
     <!-- Navigation -->
-	<nav 
-		class="navbar navbar-expand-lg navbar-light fixed-top" 
+		<nav 
+		class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark" 
 		id="mainNav"
-		style="background-color: #ffeb3b;">
+		style="background-color: #000000 !important;">
       <div class="container">
         <a class="navbar-brand" href="<?php echo base_url();?>">
 					<img src="<?php echo base_url('assets/images/logo_topo.png');?>">
@@ -250,7 +250,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<br/>CEP: 13091-133</b><br/><br/>
 				WhatsApp: <b>
 				<a 
-					style="color: #ffeb3b;"
+				  style="color: #ffeb3b;"
 					href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a></b><br/>
 				E-mail: <b>
 					<a 
