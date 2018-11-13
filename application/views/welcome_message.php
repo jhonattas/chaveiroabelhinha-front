@@ -149,9 +149,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     <!-- Navigation -->
 	<nav 
-		class="navbar navbar-expand-lg navbar-light fixed-top" 
+		class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark" 
 		id="mainNav"
-		style="background-color: #ffeb3b;">
+		style="background-color: #000000 !important;">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
 			<img src="<?php echo base_url('assets/images/logo_topo.png');?>">
@@ -319,7 +319,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <a 
                 href="https://api.whatsapp.com/send?phone=5519995530476" 
                 target="_new"
-                class="btn" 
+								class="btn" 
                 style="background-color: #26d367; color: #ffffff;"><b><i class="fab fa-whatsapp"></i></b> (19) 99553-0476</a><br/>
             </p>
           </div>
@@ -328,7 +328,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </section>
 
     <!-- Footer -->
-    <footer class="py-5" style="background-color: #ffeb3b; color: #000000;">
+    <footer class="py-5" style="background-color: #000000; color: #cccccc;">
       <div class="container">
 		  <div class="row">
 			<div class="col-md-4">
@@ -338,8 +338,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<b>Avenida Palmital, 148 - Flamboyant 
 				<br/>Campinas - SP
 				<br/>CEP: 13091-133</b><br/><br/>
-				WhatsApp: <b><a href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a></b><br/>
-				E-mail: <b><a href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a></b>
+				WhatsApp: <b>
+					<a
+					  style="color: #ffeb3b;"
+				    href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a></b><br/>
+				E-mail: <b>
+					<a 
+					style="color: #ffeb3b;"
+					href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a></b>
 				</p>
 			</div>
 			
