@@ -238,8 +238,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </section>
 
     <!-- Footer -->
-    <footer class="py-5" style="background-color: #ffeb3b; color: #000000;">
-      <div class="container">
+    <footer class="py-5" style="background-color: #000000; color: #cccccc;">
+		<div class="container">
 		  <div class="row">
 			<div class="col-md-4">
 				<b>CONTATO</b><br/><br/>
@@ -248,8 +248,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<b>Avenida Palmital, 148 - Flamboyant 
 				<br/>Campinas - SP
 				<br/>CEP: 13091-133</b><br/><br/>
-				WhatsApp: <b><a href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a></b><br/>
-				E-mail: <b><a href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a></b>
+				WhatsApp: <b>
+				<a 
+					style="color: #ffeb3b;"
+					href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a></b><br/>
+				E-mail: <b>
+					<a 
+					style="color: #ffeb3b;"
+					href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a></b>
 				</p>
 			</div>
 			

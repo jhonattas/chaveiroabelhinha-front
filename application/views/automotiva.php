@@ -275,7 +275,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </section>
 
     <!-- Footer -->
-    <footer class="py-5" style="background-color: #ffeb3b; color: #000000;">
+    <footer class="py-5" style="background-color: #000000; color: #cccccc;">
       <div class="container">
 		  <div class="row">
 			<div class="col-md-4">

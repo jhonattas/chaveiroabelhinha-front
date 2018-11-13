@@ -219,6 +219,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						Atuamos nas áreas: Residencial, Automotiva e Cofres
 					</p>
 				</div>
+
+				<div class="row text-center instagramWidget">
+          <!-- SnapWidget -->
+          <!-- SnapWidget -->
+					<iframe src="https://snapwidget.com/embed/622468" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; height:260px"></iframe>
+        </div>
       </div>
     </section>
 
