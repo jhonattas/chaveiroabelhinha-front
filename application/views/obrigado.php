@@ -203,7 +203,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <br/><br/>
 					  <p style="text-align: justify; font-size: 1.2em;">
 							<a 
-								href="https://www.google.com.br/search?ei=PnbrW5ClI4eiwQS6xbzICQ&q=chaveiro+abelhinha&oq=chaveiro+abelhinha&gs_l=psy-ab.3...232917.232917.0.233075.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..1.0.0....0.mbvG1zMEuEg#lrd=0x94c8c58b9073d37d:0xf3f7bb4010900ec8,3,,,"
+								href="https://www.google.com.br/search?ei=u3nrW6WtOoqEwgTUqZjgCQ&q=chaveiro+abelhinha+24+horas&oq=chaveiro+abelhinha+24+horas&gs_l=psy-ab.3..33i22i29i30k1.126060.130395.0.130497.27.18.0.0.0.0.306.1945.0j4j4j1.9.0....0...1c.1.64.psy-ab..18.8.1784...0j0i131k1j0i131i10k1j0i22i30k1.0.B5jdGrzDIek#lrd=0x94c8c58b9073d37d:0xf3f7bb4010900ec8,3,,,"
 								class="btn btn-danger"
 								target="_google"
 							>NOS AVALIE NO GOOGLE</a>
