@@ -199,28 +199,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <div class="container">
         <div class="row">
           <div class="col-sm-12" style="margin-top: 30px;">
-            <h1 style="text-align:center;">LINHA RESIDENCIAL</h1>
+            <h1 style="text-align:center;">OBRIGADO</h1>
             <br/><br/>
 					  <p style="text-align: justify; font-size: 1.2em;">
-              Para fazer a melhor escolha, é preciso, antes de qualquer outra coisa, conhecer os tipos de porta disponíveis no mercado. Veja a seguir os principais modelos e evite confusões na hora da compra:
+							<a 
+								href="https://www.google.com.br/search?ei=PnbrW5ClI4eiwQS6xbzICQ&q=chaveiro+abelhinha&oq=chaveiro+abelhinha&gs_l=psy-ab.3...232917.232917.0.233075.1.1.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..1.0.0....0.mbvG1zMEuEg#lrd=0x94c8c58b9073d37d:0xf3f7bb4010900ec8,3,,,"
+								class="btn btn-danger"
+								target="_google"
+							>NOS AVALIE NO GOOGLE</a>
             </p>
             <br/>
-            <p style="text-align: justify; font-size: 1.2em;">
-              <b>De abrir</b>: a porta de abrir é a mais tradicional, aquela que funciona por meio de dobradiças e oferece boa vedação, possibilitando isolamento térmico e acústico.
-            </p>
-            <br/>
-            <p style="text-align: justify; font-size: 1.2em;">
-            <b>Pivotante</b>: o modelo pivotante funciona de um jeito parecido com a porta tradicional, mas suas ferragens são diferentes. Em vez de dobradiças convencionais, o que temos aqui são pivôs. A estética é interessante, pois a porta gira em torno do próprio eixo, já no quesito vedação deixa a desejar.
-            </p>
-            <br/>
-            <p style="text-align: justify; font-size: 1.2em;">
-            <b>De correr</b>: as portas de correr são excelentes para otimizar o espaço ou dividir dois ambientes, mas os desempenhos térmico e acústico não são tão bons quanto os da porta de abrir tradicionalmente.
+            
             </p>
             <br/>
             <br/>
-            <br/>
-            <h5 style="text-align: center;">Realizamos todos os tipos de Chave e Serviços de Chaveiro</h5>
-            <h2 style="text-align:center;">Plantão 24 horas</h2>
 				</div>
       </div>
     </section>
