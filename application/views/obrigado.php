@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="pt_BR">
 <head>
 	<meta charset="utf-8">
-	<title>Automotiva - Chaveiro Abelhinha</title>
+	<title>Obrigado - Chaveiro Abelhinha</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="<?php echo base_url('assets/vendor/bootstrap/css/bootstrap.min.css'); ?>" />
   <link rel="stylesheet" href="<?php echo base_url('assets/css/scrolling-nav.css'); ?>" />
@@ -153,7 +153,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		id="mainNav"
 		style="background-color: #000000 !important;">
       <div class="container">
-				<a class="navbar-brand" href="<?php echo base_url();?>">
+        <a class="navbar-brand" href="<?php echo base_url();?>">
 					<img src="<?php echo base_url('assets/images/logo_topo.png');?>">
 				</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -166,12 +166,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								Outros Serviços
 							</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" href="<?php echo base_url();?>residencial">Linha Residencial</a>
+								<a class="dropdown-item" href="<?php echo base_url();?>automotiva">Linha Automotiva</a>
 								<a class="dropdown-item" href="<?php echo base_url();?>cofres">Cofres</a>
 							</div>
 						</li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#descricao">Linha Automotiva</a>
+              <a class="nav-link js-scroll-trigger" href="#descricao">Linha Residencial</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
@@ -186,9 +186,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		style="
 		margin-top: 155px;
 		min-height: 500px;
-		background-image: url('<?php echo base_url('assets/images/banner_topo_automotivo.jpg');?>');
+		background-image: url('<?php echo base_url('assets/images/banner_topo.jpg');?>');
 		background-size: cover;
-		background-position: center center;
+		background-position: bottom right;
 		background-repeat: no-repeat;">
       <div class="container text-center">
         <h1>&nbsp;</h1>
@@ -199,58 +199,27 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <div class="container">
         <div class="row">
           <div class="col-sm-12" style="margin-top: 30px;">
-            <h1 style="text-align:center;">LINHA AUTOMOTIVA</h1>
+            <h1 style="text-align:center;">LINHA RESIDENCIAL</h1>
             <br/><br/>
-				    <p style="text-align: justify; font-size: 1.2em;">
-              A chave codificada foi criada para atrapalhar todos os ladrões de automóveis. Ela assume as funções de equipamento eletrônico, que imobiliza a partida.
+					  <p style="text-align: justify; font-size: 1.2em;">
+              Para fazer a melhor escolha, é preciso, antes de qualquer outra coisa, conhecer os tipos de porta disponíveis no mercado. Veja a seguir os principais modelos e evite confusões na hora da compra:
             </p>
             <br/>
             <p style="text-align: justify; font-size: 1.2em;">
-              Na era dos imobilizadores de partida, tarefas como fazer uma cópia da chave do veículo ou substituir a central que controla o sistema de injeção eletrônica – UCE deixaram de ser simples e diretas. Agora o profissional deve dominar os conceitos e as particularidades que envolvem os sistemas. Só assim conseguirá realizar os procedimentos com coerência e sucesso.
+              <b>De abrir</b>: a porta de abrir é a mais tradicional, aquela que funciona por meio de dobradiças e oferece boa vedação, possibilitando isolamento térmico e acústico.
             </p>
             <br/>
             <p style="text-align: justify; font-size: 1.2em;">
-              <b>O que é um sistema imobilizador de partida?</b><br/>
-              O Imobilizador de partida é um sistema eletrônico, integrado à injeção eletrônica, que tem o objetivo de aumentar a proteção contra tentativas de roubo. Popularizou-se no Brasil a partir de 1996 com os veículos da família FIAT Pálio.
+            <b>Pivotante</b>: o modelo pivotante funciona de um jeito parecido com a porta tradicional, mas suas ferragens são diferentes. Em vez de dobradiças convencionais, o que temos aqui são pivôs. A estética é interessante, pois a porta gira em torno do próprio eixo, já no quesito vedação deixa a desejar.
+            </p>
             <br/>
-            Nos veículos com sistema imobilizador, a chave de ignição possui um dispositivo (transponder) que transmite um código secreto (por intermédio do tradutor “módulo do imobilizador”) à unidade de comando eletrônico da injeção – UCE. A partida só é permitida se o código for reconhecido pela UCE.
+            <p style="text-align: justify; font-size: 1.2em;">
+            <b>De correr</b>: as portas de correr são excelentes para otimizar o espaço ou dividir dois ambientes, mas os desempenhos térmico e acústico não são tão bons quanto os da porta de abrir tradicionalmente.
+            </p>
             <br/>
             <br/>
-            É um sistema <b>passivo</b>, significa que não necessita da ação do proprietário do veículo para funcionar.
             <br/>
-            <h5 style="text-align: center;">
-              <img 
-                style="margin: 0 auto; border-radius: 5px; width: 100%;"
-                src="<?php echo base_url('/assets/images/auto_001.png');?>">
-            </h5>
-            <br/>
-            <p style="text-align: justify;">
-              <b>O sistema é composto basicamente por</b>:<br/>
-						<br/>
-						•	Chaves eletrônicas com código secreto (transponder);<br/>
-						•	Módulo do Imobilizador;<br/>
-						•	Bobina ou Antena;<br/>
-						•	Unidade de comando de injeção – UCE com linha de comunicação com o módulo do imobilizador.<br/>
-						<br/>
-						A chave possui um transponder (chip) que possui um código eletrônico.<br/>
-						<br/>
-						Os transponder utilizados nos sistemas imobilizadores são do tipo “magnético” só emitem o sinal quando da proximidade de um campo magnético, no caso, a bobina (antena) localizada junto ao cilindro de ignição do veículo.<br/>
-						<br/>
-						<b>Módulo do imobilizador</b><br/>
-						Recebe o código do transponder que é excitado pela antena e envia para a central da injeção.<br/><br/>
-						Podemos encontrar centrais de imobilizador separadas (Fiat e VW), centrais que formam um conjunto com a antena (GM) e centrais de injeção que possuem o imobilizador incorporado (Ford, exceto F-250 e alguns Mondeo).<br/>
-						<br/>
-						<b>Bobina ou Antena</b><br/>
-						As antenas podem vir integradas com as centrais do imobilizador ou separadas.<br/>
-						<br/>
-						<b>Chaves eletrônicos com código secreto (transponder)</b><br/>
-						A palavra transponder é o resultado da junção de “transmitter + responder”, ela foi utilizada pela primeira vez por volta de 1944.<br/>
-						<h5 style="text-align: center;">
-              <img 
-                style="margin: 0 auto; border-radius: 5px; width: 100%;"
-                src="<?php echo base_url('/assets/images/auto_002.png');?>">
-            </h5>
-            <h5 style="text-align: center; margin-top: 50px;">Realizamos todos os tipos de Chave e Serviços de Chaveiro</h5>
+            <h5 style="text-align: center;">Realizamos todos os tipos de Chave e Serviços de Chaveiro</h5>
             <h2 style="text-align:center;">Plantão 24 horas</h2>
 				</div>
       </div>
@@ -276,7 +245,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     <!-- Footer -->
     <footer class="py-5" style="background-color: #000000; color: #cccccc;">
-      <div class="container">
+		<div class="container">
 		  <div class="row">
 			<div class="col-md-4">
 				<b>CONTATO</b><br/><br/>
@@ -286,12 +255,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<br/>Campinas - SP
 				<br/>CEP: 13091-133</b><br/><br/>
 				WhatsApp: <b>
+				<a 
+					style="color: #ffeb3b;"
+					href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a></b><br/>
+				E-mail: <b>
 					<a 
-				style="color: #ffeb3b;"
-				href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a></b><br/>
-				E-mail: <b><a 
-				style="color: #ffeb3b;"
-				href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a></b>
+					style="color: #ffeb3b;"
+					href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a></b>
 				</p>
 			</div>
 			
@@ -324,9 +294,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					data-show-facepile="true">
 					<blockquote cite="https://www.facebook.com/chaveiroabelhinha/" 
 					class="fb-xfbml-parse-ignore">
-					<a 
-					style="color: #ffeb3b;"
-					href="https://www.facebook.com/chaveiroabelhinha/">Chaveiro Abelhinha</a></blockquote></div>
+					<a href="https://www.facebook.com/chaveiroabelhinha/">Chaveiro Abelhinha</a></blockquote></div>
 
 		  	</div>
 		  </div>

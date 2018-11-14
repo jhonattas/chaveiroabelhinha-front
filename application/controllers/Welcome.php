@@ -33,4 +33,8 @@ class Welcome extends CI_Controller {
 	public function cofres() {
 		$this->load->view('cofres');
 	}
+
+	public function obrigado() {
+		$this->load->view('obrigado');
+	}
 }

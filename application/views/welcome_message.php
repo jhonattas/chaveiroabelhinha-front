@@ -151,7 +151,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<nav 
 		class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark" 
 		id="mainNav"
-		style="background-color: #000000 !important;">
+		style="background-color: #000000 !important; background-image: url('<?php echo base_url('assets/images/background_bee.png');?>') !important;">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
 			<img src="<?php echo base_url('assets/images/logo_topo.png');?>">
@@ -180,9 +180,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		style="
 		margin-top: 155px;
 		min-height: 500px;
-		background-image: url('<?php echo base_url('assets/images/banner_topo.jpg');?>');
+		background-image: url('<?php echo base_url('assets/images/banner_topo_automotivo.jpg');?>');
 		background-size: cover;
-		background-position: bottom right;
+		background-position: center center;
 		background-repeat: no-repeat;">
       <div class="container text-center">
         <h1>&nbsp;</h1>
