@@ -252,7 +252,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										<br/>
 										<center>
 										<a 
-											style=""
+											style="background-color: #ffeb3b !important;"
 											class="btn btn-warning" href="<?php echo base_url();?>automotiva">saber mais</a>
 										</center>
                   </div>
@@ -278,7 +278,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										<br/>
 										<center>
 										<a 
-											style=""
+											style="background-color: #ffeb3b !important;"
 											class="btn btn-warning" href="<?php echo base_url();?>residencial">saber mais</a>
 										</center>
                   </div>
@@ -304,7 +304,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										<br/>
 										<center>
 										<a 
-											style=""
+											style="background-color: #ffeb3b !important;"
 											class="btn btn-warning" href="<?php echo base_url();?>cofres">saber mais</a>
 										</center>
                   </div>
