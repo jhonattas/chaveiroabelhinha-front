@@ -200,8 +200,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
           <div class="col-sm-12" style="margin-top: 30px;">
             <h1 style="text-align:center;">OBRIGADO</h1>
-            <br/><br/>
-					  <p style="text-align: justify; font-size: 1.2em;">
+						<br/><br/>
+						<p style="text-align: center; font-size: 1.2em;">
+						Obrigado por escolher o chaveiro Abelhinha, gostariamos de saber como foi sua experiência conosco<br/>
+						<br/>
 							<a 
 								href="https://www.google.com.br/search?ei=u3nrW6WtOoqEwgTUqZjgCQ&q=chaveiro+abelhinha+24+horas&oq=chaveiro+abelhinha+24+horas&gs_l=psy-ab.3..33i22i29i30k1.126060.130395.0.130497.27.18.0.0.0.0.306.1945.0j4j4j1.9.0....0...1c.1.64.psy-ab..18.8.1784...0j0i131k1j0i131i10k1j0i22i30k1.0.B5jdGrzDIek#lrd=0x94c8c58b9073d37d:0xf3f7bb4010900ec8,3,,,"
 								class="btn btn-danger"
@@ -222,24 +224,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <br/>
             <br/>
 				</div>
-      </div>
-    </section>
-
-    <section id="contact" class="bg-light">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 mx-auto">
-            <center><h2>Entre em Contato Conosco!</h2></center>
-            <br>
-            <p class="lead" style="text-align: center;">
-            <a 
-                href="https://api.whatsapp.com/send?phone=5519995530476" 
-                target="_new"
-                class="btn" 
-                style="background-color: #26d367; color: #ffffff;"><b><i class="fab fa-whatsapp"></i></b> (19) 99553-0476</a><br/>
-            </p>
-          </div>
-        </div>
       </div>
     </section>
 
