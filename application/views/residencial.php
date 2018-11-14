@@ -204,19 +204,46 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="col-sm-12" style="margin-top: 30px;">
             <h1 style="text-align:center;">LINHA RESIDENCIAL</h1>
             <br/><br/>
-					  <p style="text-align: justify; font-size: 1.2em;">
+						<p style="text-align: justify; font-size: 1.2em;">
               Para fazer a melhor escolha, é preciso, antes de qualquer outra coisa, conhecer os tipos de porta disponíveis no mercado. Veja a seguir os principais modelos e evite confusões na hora da compra:
             </p>
             <br/>
-            <p style="text-align: justify; font-size: 1.2em;">
+						<p style="text-align: justify; font-size: 1.2em; padding: 1em;">
+							<img 
+								src="<?php echo base_url('assets/images/porta_dobradica.jpg');?>"
+								style="
+								  float: left;
+									border-radius: 5px;
+									width: 150px;
+									height: 150px;
+									margin-right: 1em;
+									margin-left: 1em;">
               <b>De abrir</b>: a porta de abrir é a mais tradicional, aquela que funciona por meio de dobradiças e oferece boa vedação, possibilitando isolamento térmico e acústico.
             </p>
             <br/>
-            <p style="text-align: justify; font-size: 1.2em;">
+						<p style="text-align: justify; font-size: 1.2em; margin-top: 30px; padding: 1em;">
+						<img 
+								src="<?php echo base_url('assets/images/porta_pivotante.jpg');?>"
+								style="
+								  float: left;
+									border-radius: 5px;
+									width: 150px;
+									height: 150px;
+									margin-right: 1em;
+									margin-left: 1em;">
             <b>Pivotante</b>: o modelo pivotante funciona de um jeito parecido com a porta tradicional, mas suas ferragens são diferentes. Em vez de dobradiças convencionais, o que temos aqui são pivôs. A estética é interessante, pois a porta gira em torno do próprio eixo, já no quesito vedação deixa a desejar.
             </p>
             <br/>
-            <p style="text-align: justify; font-size: 1.2em;">
+						<p style="text-align: justify; font-size: 1.2em; margin-top: 30px; padding: 1em;">
+						<img 
+								src="<?php echo base_url('assets/images/porta_correr.jpg');?>"
+								style="
+								  float: left;
+									border-radius: 5px;
+									width: 150px;
+									height: 150px;
+									margin-right: 1em;
+									margin-left: 1em;">
             <b>De correr</b>: as portas de correr são excelentes para otimizar o espaço ou dividir dois ambientes, mas os desempenhos térmico e acústico não são tão bons quanto os da porta de abrir tradicionalmente.
             </p>
             <br/>

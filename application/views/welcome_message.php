@@ -157,7 +157,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		style="background-color: #000000 !important; background-image: url('<?php echo base_url('assets/images/background_bee.png');?>') !important;">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
-			<img src="<?php echo base_url('assets/images/logo_topo.png');?>">
+			<img src="<?php echo base_url('assets/images/logo_topo.png');?>"
+			alt="logo chaveiro abelhinha">
 		</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
