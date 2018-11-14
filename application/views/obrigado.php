@@ -207,6 +207,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<p style="text-align: center; font-size: 1.2em;">
 						Obrigado por escolher o chaveiro Abelhinha, gostariamos de saber como foi sua experiência conosco<br/>
 						<br/>
+						Deixe uma avaliação de cinco estrelas e um otimo comentário e não pague pelo serviço.<br/>
+						<br/>
 							<a 
 								href="https://search.google.com/local/writereview?placeid=ChIJfdNzkIvFyJQRyA6QEEC79_M"
 								class="btn btn-danger"
