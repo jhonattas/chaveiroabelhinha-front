@@ -224,7 +224,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <h5 style="text-align: center;">
               <img 
                 style="margin: 0 auto; border-radius: 5px; width: 100%;"
-                src="<?php echo base_url('/assets/images/auto_001.png');?>">
+                src="<?php echo base_url('/assets/images/auto_001.jpg');?>">
             </h5>
             <br/>
             <p style="text-align: justify;">
