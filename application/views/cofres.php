@@ -219,6 +219,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							src="<?php echo base_url('assets/images/cofres_002.png');?>"
 							style="width: 100%; border-radius: 5px;"
 						>
+					</div>
+
+					<div class="col-sm-12" style="margin-top: 30px; text-align: center;">
+						Para sua total segurança e tranquilidade, jamais vizualizamos o que ha no interior do cofre.<br/>
+						Fazemos a abertura, acompanhado do responsável, após aberto nos retiramos do local, aguardamos o cliente a retirar os pertences do interior, e assim que liberado retornados e efetuamos os reparos necessarios no cofre.
           </div>
       </div>
     </section>
