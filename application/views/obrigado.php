@@ -151,7 +151,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<nav 
 		class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark" 
 		id="mainNav"
-		style="background-color: #000000 !important;">
+		style="background-color: #000000 !important; background-image: url('<?php echo base_url('assets/images/background_bee.png');?>') !important;">
       <div class="container">
         <a class="navbar-brand" href="<?php echo base_url();?>">
 					<img src="<?php echo base_url('assets/images/logo_topo.png');?>">
@@ -228,7 +228,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </section>
 
     <!-- Footer -->
-    <footer class="py-5" style="background-color: #000000; color: #cccccc;">
+    <footer class="py-5" style="
+		background-color: #000000 !important; background-image: url('<?php echo base_url('assets/images/background_bee.png');?>') !important;
+		color: #cccccc;">
 		<div class="container">
 		  <div class="row">
 			<div class="col-md-4">
