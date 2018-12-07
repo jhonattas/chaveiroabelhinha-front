@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
-<html lang="pt_BR">
+<html lang="pt-br">
 <head>
 	<meta charset="utf-8">
 	<title>Chaveiro Abelhinha</title>
@@ -157,9 +157,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		style="background-color: #000000 !important; background-image: url('<?php echo base_url('assets/images/background_bee.png');?>') !important;">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
-			<img src="<?php echo base_url('assets/images/logo_topo.png');?>"
-			alt="logo chaveiro abelhinha">
-		</a>
+					<img 
+						src="<?php echo base_url('assets/images/logo_topo.png');?>"
+						alt="logo chaveiro abelhinha">
+				</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -179,15 +180,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </div>
     </nav>
 
-	<header 
-		class="bg-primary text-white" 
-		style="
-		margin-top: 155px;
-		min-height: 500px;
-		background-image: url('<?php echo base_url('assets/images/banner_topo_automotivo.jpg');?>');
-		background-size: cover;
-		background-position: center center;
-		background-repeat: no-repeat;">
+		<header 
+			class="bg-primary text-white" 
+			style="
+			margin-top: 155px;
+			min-height: 500px;
+			background-image: url('<?php echo base_url('assets/images/banner_topo_automotivo.jpg');?>');
+			background-size: cover;
+			background-position: center center;
+			background-repeat: no-repeat;">
       <div class="container text-center">
         <h1>&nbsp;</h1>
       </div>
@@ -227,13 +228,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</section>
 		
 		<div class="row text-center instagramWidget">
-          <!-- SnapWidget -->
-          <!-- SnapWidget -->
-					<iframe src="https://snapwidget.com/embed/622468" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; height:260px"></iframe>
-        </div>
-
+      <!-- SnapWidget -->
+      <!-- SnapWidget -->
+			<iframe src="https://snapwidget.com/embed/622468" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:90%; height:260px; margin: 0 auto;"></iframe>
+    </div>
+		
 		<section id="services" class="bg-light"
-		style="background-image: url('<?php echo base_url('assets/images/estimation.jpg');?>') !important;">
+			style="background-image: url('<?php echo base_url('assets/images/estimation.jpg');?>') !important;">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 mx-auto">
