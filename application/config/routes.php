@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'welcome';
 
+$route['robots.txt'] = 'welcome/robots';
 $route['residencial'] = 'welcome/residencial';
 $route['automotiva'] = 'welcome/automotiva';
 $route['cofres'] = 'welcome/cofres';

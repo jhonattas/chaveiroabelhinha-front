@@ -22,6 +22,10 @@ class Welcome extends CI_Controller {
 		$this->load->view('welcome_message');
 	}
 
+	public function robots() {
+		$this->load->view('robots.txt');
+	}
+
 	public function residencial() {
 		$this->load->view('residencial');
 	}
