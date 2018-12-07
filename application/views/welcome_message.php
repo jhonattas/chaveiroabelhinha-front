@@ -398,7 +398,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		  </div>
 			<br>
 			<hr/>
-			<p class="criador" style="text-align: center; color: #7b7b7b;">Orgulhosamente criador por <a href="https://soucriador.com/" target="_new" style="color: #7b7b7b !important; text-decoration: underline;">Sou Criador</a></>
+			<p class="criador" style="text-align: center; color: #7b7b7b;">Orgulhosamente construido por <a href="https://soucriador.com/" target="_new" style="color: #7b7b7b !important; text-decoration: underline;">Sou Criador</a></>
       </div>
       <!-- /.container -->
     </footer>
