@@ -27,7 +27,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="<?php echo base_url('assets/ms-icon-144x144.png'); ?>">
 	<meta name="theme-color" content="#ffffff">
-	
+
 	<meta property="og:locale" content="pt_BR" />
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="<?php echo base_url('assets/abelhinha.png');?>" />
@@ -88,29 +88,29 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		}
 
 		.whatsapp-plug-icon{
-			position: fixed; 
-			z-index: 1000; 
+			position: fixed;
+			z-index: 1000;
 			bottom: 20px;
-			right: 20px; 
-			width: 50px; height: 50px; 
-			-webkit-border-radius: 50%; cursor: pointer; 
-			background-color: #0ba360; 
-			transition: .3s; 
-			background-position: center; 
-			background-repeat: no-repeat; 
+			right: 20px;
+			width: 50px; height: 50px;
+			-webkit-border-radius: 50%; cursor: pointer;
+			background-color: #0ba360;
+			transition: .3s;
+			background-position: center;
+			background-repeat: no-repeat;
 			background-image: url('./assets/images/whatsapp.svg'); background-size: 50% auto;
 		}
 		.whatsapp-plug-icon:hover{background-color: #15cc74;}
 		.whatsapp-plug-icon::after,
 		.whatsapp-plug-icon::before{
-			content: ''; 
-			position: absolute; 
-			opacity: 0; 
-			border: 4px solid #0ba360; 
-			left: -10px; 
-			top: -10px; 
-			right: -10px; 
-			bottom: -10px; 
+			content: '';
+			position: absolute;
+			opacity: 0;
+			border: 4px solid #0ba360;
+			left: -10px;
+			top: -10px;
+			right: -10px;
+			bottom: -10px;
 			-webkit-border-radius: 50%;
 			 animation: WaveWhatsApp 1.5s ease infinite;
 		}
@@ -124,17 +124,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			border: 4px solid #15cc74;
 		}
 		@keyframes WaveWhatsApp {
-			0% { 
+			0% {
 				transform: scale(0.5);
-			} 
+			}
 
-			50% { 
-				opacity: 1; 
-			} 
+			50% {
+				opacity: 1;
+			}
 
-			100% { 
-				transform: scale(1.2); 
-				opacity: 0; 
+			100% {
+				transform: scale(1.2);
+				opacity: 0;
 			}
 		}
 	</style>
@@ -151,8 +151,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	}(document, 'script', 'facebook-jssdk'));</script>
 
     <!-- Navigation -->
-		<nav 
-		class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark" 
+		<nav
+		class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark"
 		id="mainNav"
 		style="background-color: #000000 !important; background-image: url('<?php echo base_url('assets/images/background_bee.png');?>') !important;">
       <div class="container">
@@ -184,8 +184,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </div>
     </nav>
 
-	<header 
-		class="bg-primary text-white" 
+	<header
+		class="bg-primary text-white"
 		style="
 		margin-top: 155px;
 		min-height: 500px;
@@ -208,11 +208,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						Obrigado por escolher o chaveiro Abelhinha, gostariamos de saber como foi sua experiência conosco<br/>
 						<br/>
 						<br/>
-							<a 
+							<a
 								href="https://search.google.com/local/writereview?placeid=ChIJfdNzkIvFyJQRyA6QEEC79_M"
 								class="btn btn-danger"
 								target="_google"
-							>NOS AVALIE NO GOOGLE</a>  
+							>NOS AVALIE NO GOOGLE</a>
 
 							<a
 								href="https://facebook.com/chaveiroabelhinha/reviews"
@@ -223,7 +223,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							</a>
             </p>
             <br/>
-            
+
             </p>
             <br/>
             <br/>
@@ -231,66 +231,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </div>
     </section>
 
-    <!-- Footer -->
-    <footer class="py-5" style="
-		background-color: #000000 !important; background-image: url('<?php echo base_url('assets/images/background_bee.png');?>') !important;
-		color: #cccccc;">
-		<div class="container">
-		  <div class="row">
-			<div class="col-md-4">
-				<b>CONTATO</b><br/><br/>
-				<p style="font-size: 0.9em;">
-				Endereço<br/>
-				<b>Avenida Palmital, 148 - Flamboyant 
-				<br/>Campinas - SP
-				<br/>CEP: 13091-133</b><br/><br/>
-				WhatsApp: <b>
-				<a 
-					style="color: #ffeb3b;"
-					href="https://api.whatsapp.com/send?phone=5519995530476">(19) 99553-0476</a></b><br/>
-				E-mail: <b>
-					<a 
-					style="color: #ffeb3b;"
-					href="mailto:contato@chaveiroabelhinha.com.br">contato@chaveiroabelhinha.com.br</a></b>
-				</p>
-			</div>
-			
-			<div class="col-md-4">
-				<b>NOSSA LOCALIZAÇÃO</b><br/><br/>
-				<div class="mapouter">
-					<div class="gmap_canvas">
-						<iframe 
-							width="100%"
-							height="190" 
-							id="gmap_canvas" 
-							src="https://maps.google.com/maps?q=chaveiro%20abelhinha&t=&z=13&ie=UTF8&iwloc=&output=embed" 
-							frameborder="0" 
-							scrolling="no" 
-							marginheight="0" 
-							marginwidth="0"></iframe>
-					</div>
-				</div>
-			</div>
-			
-			<div class="col-md-4">
-				<b>NOSSAS REDES</b><br/><br/>
-				<div 
-					class="fb-page" 
-					data-href="https://www.facebook.com/chaveiroabelhinha/" 
-					data-height="180" 
-					data-small-header="false" 
-					data-adapt-container-width="true" 
-					data-hide-cover="false" 
-					data-show-facepile="true">
-					<blockquote cite="https://www.facebook.com/chaveiroabelhinha/" 
-					class="fb-xfbml-parse-ignore">
-					<a href="https://www.facebook.com/chaveiroabelhinha/">Chaveiro Abelhinha</a></blockquote></div>
-
-		  	</div>
-		  </div>
-      </div>
-      <!-- /.container -->
-    </footer>
+    <?php require_once('components/footer.php');?>
 
     <!-- Bootstrap core JavaScript -->
     <script src="<?php echo base_url('assets/vendor/jquery/jquery.min.js');?>"></script>
@@ -309,7 +250,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			gtag('js', new Date());
 
 			gtag('config', 'UA-120700632-1');
-		</script> 
+		</script>
 
   </body>
 
