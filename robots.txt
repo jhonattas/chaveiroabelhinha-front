@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /obrigado
+
+Sitemap: https://chaveiroabelhinha.com.br/assets/sitemap.xml
