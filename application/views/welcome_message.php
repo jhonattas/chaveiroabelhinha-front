@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="pt-br">
 <head>
 	<meta charset="utf-8">
-	<title>Chaveiro Abelhinha</title>
+	<title>CHAVEIRO ABELHINHA - CHAVEIRO 24 HORAS EM CAMPINAS</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="<?php echo base_url('assets/vendor/bootstrap/css/bootstrap.min.css'); ?>" />
   <link rel="stylesheet" href="<?php echo base_url('assets/css/scrolling-nav.css'); ?>" />
@@ -396,6 +396,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 		  	</div>
 		  </div>
+			<br>
+			<hr/>
+			<p class="criador" style="text-align: center; color: #7b7b7b;">Orgulhosamente criador por <a href="https://soucriador.com/" target="_new" style="color: #7b7b7b !important; text-decoration: underline;">Sou Criador</a></>
       </div>
       <!-- /.container -->
     </footer>
