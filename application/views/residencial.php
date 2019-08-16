@@ -205,7 +205,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <h1 style="text-align:center;">LINHA RESIDENCIAL</h1>
             <br/><br/>
 						<p style="text-align: justify; font-size: 1.2em;">
-              Para fazer a melhor escolha, é preciso, antes de qualquer outra coisa, conhecer os tipos de porta disponíveis no mercado. Veja a seguir os principais modelos e evite confusões na hora da compra:
+            Para fazer a melhor escolha, é preciso, antes de qualquer outra coisa, conhecer os tipos de porta disponíveis no mercado. Veja a seguir os principais modelos e evite confusões na hora da compra:
             </p>
             <br/>
 						<p style="text-align: justify; font-size: 1.2em; padding: 1em;">
@@ -218,7 +218,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 									height: 150px;
 									margin-right: 1em;
 									margin-left: 1em;">
-              <b>De abrir</b>: a porta de abrir é a mais tradicional, aquela que funciona por meio de dobradiças e oferece boa vedação, possibilitando isolamento térmico e acústico.
+              <b>Dobradiças</b>: essa é a mais tradicional, aquela que funciona por meio de dobradiças e oferece boa vedação, possibilitando o isolamento térmico e acústico.
             </p>
             <br/>
 						<p style="text-align: justify; font-size: 1.2em; margin-top: 30px; padding: 1em;">

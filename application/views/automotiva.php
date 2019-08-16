@@ -251,7 +251,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<h5 style="text-align: center;">
               <img
                 style="margin: 0 auto; border-radius: 5px; width: 100%;"
-                src="<?php echo base_url('/assets/images/auto_002.png');?>">
+                src="<?php echo base_url('/assets/images/auto_002.jpg');?>">
             </h5>
             <h5 style="text-align: center; margin-top: 50px;">Realizamos todos os tipos de Chave e Serviços de Chaveiro</h5>
             <h2 style="text-align:center;">Plantão 24 horas</h2>
