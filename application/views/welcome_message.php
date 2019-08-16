@@ -215,7 +215,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				</div>
 				<div class="" style="margin-top: 30px;">
 					<p style="text-align: center; font-weight: 600;">
-						O Chaveiro Abelhinha possui uma equipe qualificada e especializada com mais de 3 anos de experiência no mercado.
+						O Chaveiro Abelhinha possui uma equipe qualificada e especializada com mais de 4 anos de experiência no mercado.
 					</p>
 					<p style="text-align: center; font-weight: 600;">
 						Especialista de prontidão para lhe atender 24 horas por dia.
