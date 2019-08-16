@@ -246,13 +246,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   <div class="card-body">
                     <h4 class="card-title">Automotivo</h4>
                     <p class="card-text" style="text-align: justify;">
-											Aberturas de veículos nacionais e importados<br/>
-											Chave Codificada:<br/>
-											<br/>
-											Canivete, telecomando, chave reserva simples.<br/>
-											<br/>
-											Consertamos chave Automotiva, cilindros de portas, Ignição e Comutador de partida.<br/>
-											•	Fazemos também adaptação para chave canivete, pósitron, olimpos, taramps.
+						Aberturas de veículos nacionais e importados<br/>
+						Chave Automotiva Codificada:<br/>
+						<br/>
+						Chave Canivete, Telecomando do Alarme, chave reserva simples.<br/>
+						<br/>
+						Consertamos Chave Automotiva, Cilindros de portas, Ignição e Comutador de partida.<br/>
+						• Fazemos também adaptação para chave canivete, Pósitron, Olimpus, Taramps e Look Out
 										</p>
 										<br/>
 										<center>
@@ -270,14 +270,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   <div class="card-body">
                     <h4 class="card-title">Residencial</h4>
                     <p class="card-text" style="text-align: justify;">
-										Aberturas em Geral<br/>
-										<br/>
-										Confecção de Chaves<br/>
-										<br/>
-										Trocas de segredos<br/>
-										<br/>
-										Restauração de Fechaduras Antigas<br/>
-										•	Instalação de todos os modelos de Fechaduras, Travas Auxiliares, Acessórios de Segurança, Molas Áreas, Cadeados de porta de Aço e de Vidro.
+						Aberturas em Geral<br/>
+						<br/>
+						Confecção de Chaves<br/>
+						<br/>
+						Trocas de Segredos<br/>
+						<br/>
+						<br/>
+						Restauração de Fechaduras Antigas<br/>
+						• Instalação de todos os modelos de Fechaduras, Travas Auxiliares, Acessórios de Segurança, Molas Aéreas, Cadeados de porta de Aço e de Vidro<br/>
 										</p>
 										<br/>
 										<br/>
@@ -296,12 +297,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   <div class="card-body">
                     <h4 class="card-title">Cofres</h4>
                     <p class="card-text">
-										Realizamos abertura de Cofres mecânicos e eletrônicos<br/>
+						Realizamos abertura de Cofres mecânicos e eletrônicos<br/>
+						<br/>
+						Confeccionamos novas chaves<br/>
+						<br/>
+						Trocamos a combinação de segredo<br/>
+						<br/>
 										<br/>
-										Confeccionamos novas chaves<br/>
-										<br/>
-										Trocamos a combinação de segredo<br/>
-										•	Dica: Para você que utiliza o modelo eletrônico, confira sempre a vida útil das pilhas e mantendo as chaves fora do mesmo.
+						<br/>
+						• Dica: Para você que utiliza o modelo eletrônico, confira sempre a vida útil das pilhas e mantendo as chaves fora do mesmo.
 										<br/>
 										<br/>
 										</p>

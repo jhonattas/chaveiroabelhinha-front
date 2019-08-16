@@ -222,8 +222,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					</div>
 
 					<div class="col-sm-12" style="margin-top: 30px; text-align: center;">
-						Para sua total segurança e tranquilidade, jamais vizualizamos o que ha no interior do cofre.<br/>
-						Fazemos a abertura, acompanhado do responsável, após aberto nos retiramos do local, aguardamos o cliente a retirar os pertences do interior, e assim que liberado retornados e efetuamos os reparos necessarios no cofre.
+					Para sua total segurança e tranquilidade, jamais visualizamos o que há no interior do cofre.<br/>
+					Fazemos a abertura somente com a presença do Proprietário. Após aberto, nos retiramos do local e aguardamos o cliente retirar os pertences do interior do Cofre. Assim que liberado retornamos para efetuamos os reparos necessários no cofre.
           </div>
       </div>
     </section>
