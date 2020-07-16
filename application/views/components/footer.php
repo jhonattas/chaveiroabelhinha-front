@@ -7,14 +7,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		color: #cccccc;">
       <div class="container">
 		  <div class="row">
-			<div class="col-md-4">
+			<div class="col-md-6">
 				<b>CONTATO</b><br/><br/>
 				<!-- 
 				<p style="font-size: 0.9em;">
 				Endereço<br/>
 				<b>Avenida Palmital, 148 - Flamboyant-->
 				Campinas - SP
-				<br/>CEP: 13091-133</b><br/><br/>
+				<!-- <br/>CEP: 13091-133</b><br/><br/> -->
 				WhatsApp: <b>
 					<a
 					  style="color: #ffeb3b;"
@@ -45,7 +45,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 			-->
 
-			<div class="col-md-4">
+			<div class="col-md-6">
 				<b>NOSSAS REDES</b><br/><br/>
 				<div
 					class="fb-page"
