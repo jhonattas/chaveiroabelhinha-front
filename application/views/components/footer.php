@@ -13,7 +13,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<p style="font-size: 0.9em;">
 				Endereço<br/>
 				<b>Avenida Palmital, 148 - Flamboyant-->
-				Campinas - SP
+				Campinas - SP<br/>
 				<!-- <br/>CEP: 13091-133</b><br/><br/> -->
 				WhatsApp: <b>
 					<a
