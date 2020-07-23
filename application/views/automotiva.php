@@ -157,7 +157,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		style="background-color: #000000 !important; background-image: url('<?php echo base_url('assets/images/background_bee.webp');?>') !important;">
       <div class="container">
 				<a class="navbar-brand" href="<?php echo base_url();?>">
-					<img src="<?php echo base_url('assets/images/logo_topo.png');?>">
+					<img src="<?php echo base_url('assets/images/logo_topo.webp');?>">
 				</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
