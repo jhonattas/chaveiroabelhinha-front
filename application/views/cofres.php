@@ -37,7 +37,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<meta property="og:site_name" content="CHAVEIRO ABELHINHA" />
 	<meta name="description" content="O Chaveiro Abelhinha possui uma equipe qualificada e experiente para te atender. Chave codificada em Campinas"/>
 	<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.chaveiroabelhinha.com.br\/","name":"Chaveiro Abelhinha","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.chaveiroabelhinha.com.br\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-	<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.chaveiroabelhinha.com.br\/","sameAs":[],"@id":"#organization","name":"NAYARA MONTEIRO FAZOLO 39279900862","logo":"https:\/\/www.chaveiroabelhinha.com.br\/assets\/images\/logo_topo.png"}</script>
+	<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.chaveiroabelhinha.com.br\/","sameAs":[],"@id":"#organization","name":"NAYARA MONTEIRO FAZOLO 39279900862","logo":"https:\/\/www.chaveiroabelhinha.com.br\/assets\/images\/logo_topo.webp"}</script>
 
 	<style>
 		.mapouter {
