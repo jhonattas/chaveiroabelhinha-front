@@ -234,7 +234,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
 
 		<section id="services" class="bg-light"
-			style="background-image: url('<?php echo base_url('assets/images/estimation.jpg');?>') !important;">
+			style="background-image: url('<?php echo base_url('assets/images/estimation.webp');?>') !important;">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 mx-auto">
@@ -242,7 +242,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div class="row">
               <div class="col" style="margin-top: 1em;">
                 <div class="card" style="">
-                  <img class="card-img-top" src="<?php echo base_url('assets/images/linha_automotiva.jpg');?>" alt="Card image">
+                  <img class="card-img-top" src="<?php echo base_url('assets/images/linha_automotiva.webp');?>" alt="Card image">
                   <div class="card-body">
                     <h4 class="card-title">Automotivo</h4>
                     <p class="card-text" style="text-align: justify;">
@@ -266,7 +266,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="col" style="margin-top: 1em;">
                 <div class="card" style="">
-                  <img class="card-img-top" src="<?php echo base_url('assets/images/linha_residencial.jpg');?>" alt="Card image">
+                  <img class="card-img-top" src="<?php echo base_url('assets/images/linha_residencial.webp');?>" alt="Card image">
                   <div class="card-body">
                     <h4 class="card-title">Residencial</h4>
                     <p class="card-text" style="text-align: justify;">

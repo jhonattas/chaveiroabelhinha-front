@@ -210,7 +210,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <br/>
 						<p style="text-align: justify; font-size: 1.2em; padding: 1em;">
 							<img
-								src="<?php echo base_url('assets/images/porta_dobradica.jpg');?>"
+								src="<?php echo base_url('assets/images/porta_dobradica.webp');?>"
 								style="
 								  float: left;
 									border-radius: 5px;
@@ -223,7 +223,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <br/>
 						<p style="text-align: justify; font-size: 1.2em; margin-top: 30px; padding: 1em;">
 						<img
-								src="<?php echo base_url('assets/images/porta_pivotante.jpg');?>"
+								src="<?php echo base_url('assets/images/porta_pivotante.webp');?>"
 								style="
 								  float: left;
 									border-radius: 5px;
@@ -236,7 +236,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <br/>
 						<p style="text-align: justify; font-size: 1.2em; margin-top: 30px; padding: 1em;">
 						<img
-								src="<?php echo base_url('assets/images/porta_correr.jpg');?>"
+								src="<?php echo base_url('assets/images/porta_correr.webp');?>"
 								style="
 								  float: left;
 									border-radius: 5px;
