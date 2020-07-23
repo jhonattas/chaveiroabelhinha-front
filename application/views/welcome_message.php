@@ -293,7 +293,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
               <div class="col" style="margin-top: 1em;">
                 <div class="card" style="">
-                  <img class="card-img-top" src="<?php echo base_url('assets/images/cofres.jpg');?>" alt="Card image">
+                  <img class="card-img-top" src="<?php echo base_url('assets/images/cofres.webp');?>" alt="Card image">
                   <div class="card-body">
                     <h4 class="card-title">Cofres</h4>
                     <p class="card-text">

@@ -209,14 +209,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
           <div class="col-sm-6" style="margin-top: 30px;">
 						<img
-							src="<?php echo base_url('assets/images/cofres_001.png');?>"
+							src="<?php echo base_url('assets/images/cofres_001.webp');?>"
 							style="width: 100%; border-radius: 5px;"
 						>
 					</div>
 
 					<div class="col-sm-6" style="margin-top: 30px;">
 						<img
-							src="<?php echo base_url('assets/images/cofres_002.png');?>"
+							src="<?php echo base_url('assets/images/cofres_002.webp');?>"
 							style="width: 100%; border-radius: 5px;"
 						>
 					</div>
