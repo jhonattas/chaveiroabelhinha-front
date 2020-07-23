@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <!-- Footer -->
 <footer class="py-5" style="
-		background-color: #000000 !important; background-image: url('<?php echo base_url('assets/images/background_bee.png'); ?>') !important;
+		background-color: #000000 !important; background-image: url('<?php echo base_url('assets/images/background_bee.webp'); ?>') !important;
 		color: #cccccc;">
       <div class="container">
 		  <div class="row">
